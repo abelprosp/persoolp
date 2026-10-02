@@ -16,7 +16,7 @@ import { PERSOOCRM_LOGO_URL, PERSOO_APP_URL } from "@/config/brand";
  * Opcional: defina `NEXT_PUBLIC_PERSOOCRM_YOUTUBE_URL` no `.env.local` (tem prioridade).
  */
 const YOUTUBE_LINK_FALLBACK =
-  "https://www.youtube.com/shorts/RWSE0GOVhQY";
+  "https://www.youtube.com/shorts/kwuvgOSIZi0";
 
 const youtubeLink =
   process.env.NEXT_PUBLIC_PERSOOCRM_YOUTUBE_URL?.trim() ||
